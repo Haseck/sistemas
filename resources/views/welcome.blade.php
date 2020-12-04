@@ -53,8 +53,8 @@
                             </div>
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Esparza Castillo Carlos Eduardo+
-                                    16180916
+                                    Esparza Castillo Carlos Eduardo<br>
+                                    16180916<br>
                                     Administración de servidores
                                 </div>
                             </div>
