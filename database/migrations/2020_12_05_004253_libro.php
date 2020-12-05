@@ -13,7 +13,10 @@ class Libro extends Migration
      */
     public function up()
     {
-        //
+        Schema::create('libro', function($table) {
+            $table->string('nombre');
+            $table->string('autor');
+        });
     }
 
     /**
